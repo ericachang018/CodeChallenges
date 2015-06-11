@@ -1,0 +1,6 @@
+The Socket program- 
+Run server.py 
+Then run client.py
+
+result - the client can connect to the server I've created and the server 
+will print something to the screen each time the client connects. 
