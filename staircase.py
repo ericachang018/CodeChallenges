@@ -26,3 +26,4 @@ def staircase_to_left(nums):
 staircase_to_left(6)
 
 # staircase_to_right(6)
+# 
